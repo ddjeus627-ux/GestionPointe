@@ -12,7 +12,7 @@ int main()
 
 	std::cout << "Gestion Points\n";
 	cout << "les points sont :\n";
-
+	
 	p1.affiche();
 	p2.affiche();
 	p3.affiche();
